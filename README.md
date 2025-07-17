@@ -6,7 +6,7 @@ Base64ImageApp Decode/Encode
 Vietnamese
   
   Phần mềm đơn giản được viết bằng Python sử dụng để mã hóa/giải mã Hình ảnh thành/từ file Base64.
-  Phần mêm được viết cho mục đích cá nhân và mình không chuyên code cảm ơn mng qtam
+  Phần mêm được viết cho mục đích cá nhân và mình không chuyên code cảm ơn mọi người đã quan tâm
 
 Eng
   
